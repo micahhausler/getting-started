@@ -25,6 +25,7 @@ Setup
     ```
     You have just installed several package into your system! 
 2. Open the notebook server
+    
     ```
     ipython notebook
     ```
@@ -44,12 +45,14 @@ Virtualenv
 follow the instructions
 2. Install virtualenv. (Open the terminal and enter the following command. You
 may have to enter your password)
+
     ```
     sudo pip install virtualenv virtualenvwrapper
     ```
     You have just installed a python package into your system! This package lets
     you create virtual sandboxes for python environments.
 3. **Magic**. Run these commands in your terminal.
+    
     ```
     mkdir ~/.venv;
     echo "export WORKON_HOME=~/.venv" | tee -a ~/.bashrc;
@@ -58,6 +61,7 @@ may have to enter your password)
     You have modified what your terminal runs whenever you open the Terminal!
     Close this Terminal window and open a new one ( + w,  + n)
 4. Create a new virtual environment.
+    
     ```
     mkvirtualenv setup-env
     ```
