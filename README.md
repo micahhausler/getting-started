@@ -1,6 +1,6 @@
 Getting-Started
 ===============
-Getting started with programming (for people who didn't learn Computer Science)
+Getting started with programming (for people who did or didn't learn Computer Science)
 
 --------------------------------------------------------------------------------
 
