@@ -20,12 +20,12 @@ Setup
 1. Open the terminal and enter the following commands. (You may have to enter
     your password)
 
-    ```bash
+    ```
     sudo pip install ipython jinja2 werkzeug pyzmq tornado
     ```
     You have just installed several package into your system! 
 2. Open the notebook server
-    ```bash
+    ```
     ipython notebook
     ```
     This should open your webbrowser to http://127.0.0.1:8888
@@ -44,14 +44,13 @@ Virtualenv
 follow the instructions
 2. Install virtualenv. (Open the terminal and enter the following command. You
 may have to enter your password)
-
-    ```bash
+    ```
     sudo pip install virtualenv virtualenvwrapper
     ```
     You have just installed a python package into your system! This package lets
     you create virtual sandboxes for python environments.
 3. **Magic**. Run these commands in your terminal.
-    ```bash
+    ```
     mkdir ~/.venv;
     echo "export WORKON_HOME=~/.venv" | tee -a ~/.bashrc;
     echo "source /usr/local/bin/virtualenvwrapper.sh" | tee -a ~/.bashrc;
@@ -59,18 +58,18 @@ may have to enter your password)
     You have modified what your terminal runs whenever you open the Terminal!
     Close this Terminal window and open a new one ( + w,  + n)
 4. Create a new virtual environment.
-    ```bash
+    ```
     mkvirtualenv setup-env
     ```
     You have now made a new virtual environment! If you ever want to use this
     environment again, simply run `workon setup-env` in your terminal.
 
 5. Make a code folder. 
-    ```bash
+    ```
     mkdir code
     ```
     You have just made a "code" folder in your home directory! Next try this.
-    ```bash
+    ```
     open .
     ```
     Your finder will open in the directory you just made.
