@@ -17,11 +17,11 @@ Concepts
 Core concepts covered:
 * [System setup](setup.md)
 * [Helpful tools for coding in Python](tools/python.md)
+* [Package management](package_management.md)
 
 TODO concepts:
 * [Terminal access](https://www.google.com/search?q=learn+mac+terminal&oq=learn+mac+terminal)
 * [Learning Python](http://www.codecademy.com/tracks/python)
-* Package management
 * Reading documentation
 * Web Frameworks
     [(Django tutorial)](https://docs.djangoproject.com/en/1.6/intro/tutorial01/)
@@ -34,6 +34,7 @@ TODO concepts:
     [Freenode](http://webchat.freenode.net/)
 * [Docker](https://www.docker.io/)
 * Software Testing
+* Scrum - https://en.wikipedia.org/wiki/Scrum_(software_development)
 
 Contribute
 ----------
