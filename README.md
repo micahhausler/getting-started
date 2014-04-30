@@ -16,7 +16,7 @@ Concepts
 
 Core concepts covered:
 * [System setup](setup.md)
-* [Helpful tools for coding in Python](python_tools.md)
+* [Helpful tools for coding in Python](tools/python.md)
 
 TODO concepts:
 * [Terminal access](https://www.google.com/search?q=learn+mac+terminal&oq=learn+mac+terminal)
@@ -27,7 +27,7 @@ TODO concepts:
     [(Django tutorial)](https://docs.djangoproject.com/en/1.6/intro/tutorial01/)
 * Version Control - [git basics](https://try.github.io/levels/1/challenges/1),
 [git branching](http://pcottle.github.io/learnGitBranching/)
-* [Databases](http://www.w3schools.com/sql/default.asp)
+* [SQL](http://www.w3schools.com/sql/default.asp) and databases
 * [Markdown](http://daringfireball.net/projects/markdown/syntax)
 * [Vagrant](http://www.vagrantup.com/)
 * [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and
