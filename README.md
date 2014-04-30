@@ -33,6 +33,7 @@ TODO concepts:
 * [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and
     [Freenode](http://webchat.freenode.net/)
 * [Docker](https://www.docker.io/)
+* Software Testing
 
 Contribute
 ----------
@@ -42,6 +43,6 @@ please [fork this](https://help.github.com/articles/fork-a-repo) and fix it!
 
 License
 -------
-Computer people put licensces on all thier code, so I put the MIT license on 
-this project. If you want to know what that means check out 
+Computer people put licensces on all thier code, so I put the MIT license on
+this project. If you want to know what that means check out
 [tldrlegal.com](https://tldrlegal.com/license/mit-license)
