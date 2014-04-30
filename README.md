@@ -38,7 +38,7 @@ TODO concepts:
 Contribute
 ----------
 If anything is confusing, broken, doesn't make sense, or just plane wrong,
-please [fork this](https://help.github.com/articles/fork-a-repo) and fix it!
+please [fork this](https://github.com/micahhausler/getting-started/fork) and fix it!
 <!---(spelling error intentional, please fork and fix :) -->
 
 License
