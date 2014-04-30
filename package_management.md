@@ -39,8 +39,8 @@ for the 2.0.0 version.
 
 Virtualenv
 ----------
-Sometimes you want a different version of a library then you have installed on
-your system environment. For example, we have a project that needs
+Sometimes you want to use a different version of a library then you have
+installed on your system environment. For example, we have a project that needs
 `ipython==1.2.0`, but our system has `ipython==2.0.0` installed. What do we do?
 We use Virtualenv. Virtualenv creates a "virtual environment," a kind of sandbox
 for packages.
@@ -75,6 +75,6 @@ may have to enter your password)
     ipython.
 
     ```
-    pip install ipython 
+    pip install ipython==1.2.0 
     # No sudo necessary
     ```
