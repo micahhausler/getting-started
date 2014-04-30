@@ -16,7 +16,7 @@ Concepts
 
 Core concepts covered:
 * [System setup](setup.md)
-* [Helpful tools for coding in Python](tools/python.md)
+* [Helpful tools for coding in Python](python/tools.md)
 * [Package management](package_management.md)
 
 TODO concepts:
